@@ -1,0 +1,7 @@
+group 'toblerones'
+version '0.0.1'
+
+subprojects {
+    apply plugin: 'idea'
+    apply plugin: 'java'
+}

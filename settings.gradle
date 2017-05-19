@@ -1,0 +1,6 @@
+rootProject.name = 'neptune'
+
+include 'neptune-edge-service'
+include 'neptune-discovery-register-service'
+include 'neptune-mss-application'
+include 'neptune-mss-customer'
